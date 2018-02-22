@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    width: 980px;
+    margin: 0 auto;
+}
+header{
+    background-color: #FAFAFA;
+    padding: 15px;
+}
+h1{
+    font-family: cursive;
+    display: inline-block;
+}
+h2{
+    text-align: right;
+    display: inline-block;
+    margin-left: 400px;
+}
+article{
+    background: radial-gradient(circle, #6F5964,#200F14);
+    padding: 15px 20px;
+}
+article img{
+    background-color: #C0BFBF;
+    display: inline-block;
+    width: 410px;
+    height: 270px;
+    padding: 5px;
+}
+.about{
+    width: 490px;
+    height: 280px;
+    display: inline-block;
+    background-color: #EAE2EA;
+    vertical-align: top;
+    margin-left: 25px;
+}
+.articlebar{
+    color: white;
+    background: linear-gradient(silver,#898794, silver);
+    font-size: 1.4em;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.about p{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}.about a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+}
+.subcontent{
+    width: 300px;
+    height: 600px;
+    display: inline-block; 
+    background-color: #EAE2EA;
+    vertical-align: top;
+    margin-top: 15px;
+}
+#familycontacts{
+    margin: 15px 15px 5px 15px;
+}
+.subcontent_img{
+    width: 300px;
+    height: 170px;
+    padding: 0px;
+}
+#lamode .techcontainer{
+    margin-top: 55px;
+}
+#familycontacts .techcontainer{
+    margin-top: 37px;
+}
+.technologybar{
+    background: linear-gradient(silver,#898794, silver);
+    color: white;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subcontent p{
+    padding: 10px;
+}
+.icon_img{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+    background-color: transparent;
+}
+button{
+    display: block;
+    background-color: forestgreen;
+    padding: 5px;
+    color: white;
+    border-radius: 10px 10px;
+    margin: 0 auto;
+    border: solid black 1px;
+    box-shadow: 2px 2px gray;
+}
+footer{
+    text-align: center;
+    padding: 5px;
+    background-color: #FAFAFA;
+}
+.contactmecontainer{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+footer img{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 5px
+}
+.contactmecontainer a{
+    color: black;
+    margin-bottom: 5px;
+    margin-left: 4px;
+}
